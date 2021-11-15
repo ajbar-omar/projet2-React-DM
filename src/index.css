@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ 
+}
+
+.btn{
+    margin-left: 76px;
+   background-color:  #330064;
+   border-color:#330064; 
+}
+.container{
+    margin-top: 33px;
+    font-family: 'Raleway', sans-serif;
+}
+h2{
+    margin-top:12px;
+}
+.bg{
+    background: linear-gradient(123deg, #461B93 0%, #461B93 40%, #6A3CBC calc(40% + 1px), #6A3CBC 60%, #8253D7 calc(60% + 1px), #8253D7 70%, #F78F1E calc(70% + 1px), #F78F1E 100%)
+
+}
+.tos{
+color: #380063;
+}
+.tos:link{
+    text-decoration: none;
+
+}
+.container2{
+    font-family: 'Raleway', sans-serif;
+    margin-top: 33px;
+}
+.bg2{
+    background: linear-gradient(123deg, #461B93 0%, #461B93 40%, #6A3CBC calc(40% + 1px), #6A3CBC 60%, #8253D7 calc(60% + 1px), #8253D7 70%, #F78F1E calc(70% + 1px), #F78F1E 100%)
+}
+.hac{
+    color: #380063; 
+}
+.hac:link{
+    text-decoration: none;
+
+}
+/* .bgHome{
+    background-image: url('./port.png');
+    height: 100vh;
+} */
